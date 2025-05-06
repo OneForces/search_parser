@@ -1,0 +1,9 @@
+gspread
+oauth2client
+requests
+beautifulsoup4
+fake-useragent
+pandas
+selenium
+webdriver-manager
+openpyxl
