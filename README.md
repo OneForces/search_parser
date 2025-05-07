@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 По умолчанию используется Google Sheets:
 ```
-https://docs.google.com/spreadsheets/d/ID/edit#gid=GID
+[https://docs.google.com/spreadsheets/d/ID/edit#gid=GID](https://docs.google.com/spreadsheets/d/12hQzJGxLVSMN7RFkBhhlwo92Sbpdksfk4orsWisNz6E/edit?gid=1259852449#gid=1259852449)
 ```
 
 **ВАЖНО**: Документ должен быть доступен публично по ссылке (`Просмотр по ссылке`).
