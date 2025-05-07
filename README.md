@@ -83,6 +83,8 @@ url = "https://docs.google.com/spreadsheets/d/ID/export?format=csv&gid=GID"
 5. Перейди в "Панель управления" > "ID поисковой системы" (это и есть **CX**)
 
 ### 6. Активация расширений.
+   Ссылки:
+   https://console.cloud.google.com/apis/credentials
    https://console.cloud.google.com/apis/library/drive.googleapis.com?inv=1&invt=AbwvHA&project=resolute-bloom-459017-h8
    https://console.cloud.google.com/apis/library/sheets.googleapis.com?inv=1&invt=AbwvHA&project=resolute-bloom-459017-h8
    Это важно для работы бота
