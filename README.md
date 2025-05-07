@@ -76,7 +76,7 @@ url = "https://docs.google.com/spreadsheets/d/ID/export?format=csv&gid=GID"
 ### 5. Создай Поисковую систему (CX):
 
 1. Перейди на:  
-   👉 https://programmablesearchengine.google.com/
+   👉 https://programmablesearchengine.google.com/all
 2. Нажми "Добавить"
 3. Укажи `*.ru` в поле "Сайты для поиска"
 4. Нажми "Создать"
